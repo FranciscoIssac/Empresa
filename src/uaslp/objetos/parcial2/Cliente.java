@@ -14,5 +14,4 @@ public class Cliente {
     public void setTelefonoDeContacto(String telefonoDeContacto) {
         this.telefonoDeContacto = telefonoDeContacto;
     }
-
 }

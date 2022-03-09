@@ -18,5 +18,4 @@ public class Empleado {
     public void setSueldoBruto(double sueldoBruto) {
         this.sueldoBruto = sueldoBruto;
     }
-
 }

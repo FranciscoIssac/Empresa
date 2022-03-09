@@ -6,5 +6,4 @@ public class Empresa {
     private String nombre;
     private List<Cliente> cliente;
     private List<Empleado> empleado;
-
 }
